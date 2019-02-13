@@ -11,7 +11,7 @@ hosted in [Github pages](https://pages.github.com/). I'm using it to jump back i
 * Figure out why profile pic isn't showing up
 * Figure out why projects page is 404ing
 * Figure out why jekyll serve is failing locally
-* Populate resume/CV content
+* Populate resume/CV content (borrow structure from https://github.com/jekyller/vitae)
 * Populate projects pages
 * Create and populate interests page
 * Populate contact page
