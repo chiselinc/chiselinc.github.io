@@ -11,7 +11,7 @@ safe: true
 
 # edit here to achieve your personal greatness
 url: http://chiselinc.github.io/
-baseurl: /sustain/
+# baseurl: /sustain/
 title: Chelsea Palmer
 author: Chelsea Palmer
 description: Personal blog and resume
