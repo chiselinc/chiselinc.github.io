@@ -2,16 +2,13 @@
 # What have you stumbled upon?
 
 This is Chelsea Palmer's personal blog, built on a forked template from [Sustain](https://jekyller.github.io/sustain/), powered by [Jekyll](http://jekyllrb.com/) and freely
-hosted in [Github pages](https://pages.github.com/). I'm using it to jump back into learning to ship my own site and assorted content
+hosted in [Github pages](https://pages.github.com/). I'm using it to jump back into learning to ship my own site and assorted content!
 
 
 ## Todos
 
 * Clean out template content from *_posts/* and *_includes/*
-* Figure out why profile pic isn't showing up
-* Figure out why projects page is 404ing
 * Figure out why jekyll serve is failing locally
-* Populate resume/CV content (borrow structure from https://github.com/jekyller/vitae)
 * Populate projects pages
 * Create and populate interests page
 * Populate contact page
