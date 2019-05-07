@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hire Me: Education and Curriculum Development Roles
+title: Hire Me- Education and Curriculum Development Roles
 tags:
 - Personal
 - Work
