@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Event Operations Roles
+title: Hire Me: Event Operations Roles
 tags:
 - Personal
 - Work
