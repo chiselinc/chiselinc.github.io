@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hire Me: Advisory and Consulting Roles
+title: Hire Me- Advisory and Consulting Roles
 tags:
 - Personal
 - Work
