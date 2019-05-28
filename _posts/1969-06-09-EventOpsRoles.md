@@ -17,6 +17,8 @@ My strengths include:
 * designing and implementing ambitious but achievable scheduled timetables;
 * ensuring effective day-of AV capture and social media live documentation.
 
+![DCTRL with faces pixelated for privacy](/assets/imgs/IMG_20170425_215406_026.jpg)
+
 I prefer not to be involved in the fundraising side of projects where I'm performing short term contract work; I find the "asking for money" muscle very difficult to flex, and I save all that strength currently for advocating for my own livable wage, and the few volunteer passion projects I choose to devote time to. I will always offer to volunteer for lower budget events that I believe in, and will work as hard as if the team were paying me.
 
 ## Compensation Expectation
