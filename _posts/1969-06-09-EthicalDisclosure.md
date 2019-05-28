@@ -10,6 +10,8 @@ I have long wanted to construct this statement, following the shining example of
 
 I've been held back by the daunting scale of this undertaking-- I have very few actual financial entanglements with crypto ecosystem projects, but many fluid relationships and community connections. I'm still determining where I draw the defining line for non-financial conflicts of interest, and this statement will thus be an iterative versioned work in progress, as time and sanity allow. Future versions will link back to their predecessors... much like some sort of chain of information blocks.
 
+![my most terrible confession](/assets/imgs/1452602809_chroma.jpg)
+
 ## Paid Roles
 
 I am currently engaged in a few short term private sector contracts, primarily focused on technical writing, curriculum development, and community building. If I take any committed roles in projects, I'll append them here in future. I'm looking for one or more "forever homes" within teams focused on edge case, privacy-focused platforms that benefit populations who most need censorship-resistant sound money *today*.
