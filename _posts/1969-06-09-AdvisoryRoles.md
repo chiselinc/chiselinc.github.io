@@ -13,4 +13,4 @@ I am best suited to short-term advisory and consulting positions in the followin
 * I can do small group facilitation, corporate consulting, or initial feedback rounds around issues of inclusion regarding gender identity and ethical product design.
 * I will give feedback on whether your project *needs* a blockchain, and can serve the role of a condensed critical firing squad for any tokenization/alt-coin project in its early stages, to point out the many ways in which you could accomplish your proposed goal without excessive blockchainization.
 
-![I advise you to use FLOSS](https://github.com/chiselinc/chiselinc.github.io/assets/imgs/534564251_chroma.jpg)
+![I advise you to use FLOSS](/assets/imgs/534564251_chroma.jpg)
