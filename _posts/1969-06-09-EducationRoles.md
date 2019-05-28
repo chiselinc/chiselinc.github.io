@@ -11,6 +11,8 @@ I have loved education since the first day I went to kindergarten, and to me, te
 
 I have been helping people set up their first Bitcoin wallet hands-on since 2016, and am always happy to do so. There are some really important principles to keep in mind as you start out with Bitcoin-- the most crucial being about proper safekeeping of your private keys-- and it's great to have a friend to guide you along!
 
+![Education can be... difficult](/assets/imgs/1998864093_chroma.jpg)
+
 I can also do larger scale education; the following rough estimate rates are based on the preparation time required for each topic, and rate is scaled between small/grassroots and large/corporate settings.
 
 **Intro to Bitcoin** ------------------------ $25hr grassroots / $125hr corporate
