@@ -7,10 +7,13 @@ hosted in [Github pages](https://pages.github.com/). I'm using it to jump back i
 
 ## Todos
 
-* Clean out template content from *_posts/* and *_includes/*
-* Figure out why jekyll serve is failing locally
-* Populate projects pages
-* Create and populate interests page
+* Resize pics
+* Import past blog content
+* Refine/edit roles and interests
+* Summarize TLDR resume
+* List tools, platforms, skillsets
+* Update resume with 2019 projects/activities & school status
+* Update ethical disclosure
 * Populate contact page
 * Redirect www.chelseakpalmer.com to gh-pages
 
