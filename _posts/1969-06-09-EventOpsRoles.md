@@ -7,22 +7,36 @@ tags:
 - CoreText
 ---
 
-I have more than 3 very active years of experience designing, managing, and implementing tech industry events large and small.
+## Experience
+* 10+ years as an informal community organizer (noise music scene and Infoshop anarchist collective)
+* 4+ years running Bitcoin and decentralized technology meetups
+* 3+ years managing professional tech conferences large and small
 
-I cut my teeth for event management as a member in [an anarchic Bitcoin education space in Vancouver](https://www.dctrl.ca), and scaled up to working on larger global conferences by summer of 2017.
 
-My strengths include:
-* lead-in planning for contingencies, covering everything from insurance/liability and venue relations to catering and livestream;
-* collecting and organizing speaker relations content and communications flow;
-* designing and implementing ambitious but achievable scheduled timetables;
-* ensuring effective day-of AV capture and social media live documentation.
+## Background
+I cut my teeth for crypto event management as a member in [an anarchic Bitcoin education space in Vancouver](https://www.dctrl.ca), and scaled up to working on larger global conferences by summer of 2017. My greatest achievement in life thus far has been [Dogecon Vancouver](https://dogecon.fun), which will be returning to Vancouver in Summer of 2020.
 
-![DCTRL with faces pixelated for privacy](/assets/imgs/IMG_20170425_215406_026.jpg)
+## Strengths
+* pragmatic lead-in planning for contingencies and crowd control (keep things safe and manageable);
+* implementing a system for speaker relations with a strong communication flow (keep speakers informed and happy);
+* designing and implementing ambitious but achievable content timetables, including parallel tracks (keep activities organized and moving forward);
+* ensuring effective day-of AV capture and live social media documentation (keep your event at the forefront of everyone's mind).
 
-I prefer not to be involved in the fundraising side of projects where I'm performing short term contract work; I find the "asking for money" muscle very difficult to flex, and I save all that strength currently for advocating for my own livable wage, and the few volunteer passion projects I choose to devote time to. I will always offer to volunteer for lower budget events that I believe in, and will work as hard as if the team were paying me.
+ <img src="{{ site.baseurl }}assets/imgs/IMG_20170425_215406_026.jpg" alt="DCTRL with faces pixelated for privacy" style="width:500px">
 
-## Compensation Expectation
+I prefer not to be involved in the fundraising side of projects where I'm performing short term contract work. However, I will always offer to volunteer for lower budget events that I believe in, and will work as hard as if the team were paying me.
 
-I will accept larger leadership roles (operations management) on fixed contract terms, usually at a rate of $1000-4000usd monthly depending on the scope of the role and responsibilities for lead-in. For more informal roles where lead-in involvement is not required, but help is required with the actual event execution, I'm happy to do an hourly contract arrangement, as long as travel expenses are covered as well.
+## Compensation
 
-For these "day-of" operations roles, my rates start at $40usd/hr for volunteer management, overseeing venue relations and logistics, or a prominent MC/host role; lower rates are available for stageside timekeeping at $30/hr, and livetweeting the event with proper linkouts to livestreams and speaker profiles at $25/hr.
+* **Full-on Conference Management Roles** - negotiated on a per-contract basis, *$1000-$4000 USD* monthly flat rate depending on scope of role and lead-in prep time
+
+* **Consultation & Support on Smaller Events** - happy to do an hourly rate of *$25 USD* for smaller/non-profit groups and *$75-$125 USD* for corporate/private sector affairs
+
+### Rates for Smaller Scope/Defined Roles
+
+Beyond operations management, I can fill pretty much any role in the hierarchy for day-of operations, especially:
+
+* Volunteer management; Venue relations/on-site logistics contact point; Prominent MC/Host roles: *$40 USD/hr*
+* Stageside timekeeper/head usher (I have a full set of "time left:" signs, large clock, etc): *$30 USD/hr*
+* Livetweeting (with accurate & timely linkouts to livestreams and speaker profiles): *$25 USD/hr*
+
