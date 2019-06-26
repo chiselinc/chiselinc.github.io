@@ -26,7 +26,7 @@ My greatest achievement in life thus far has been [Dogecon Vancouver](https://do
 * designing and implementing ambitious but achievable content timetables, including parallel tracks;
 * ensuring effective day-of AV capture and live social media documentation.
 
- <img src="{{ site.baseurl }}assets/imgs/IMG_20170425_215406_026.jpg" alt="DCTRL with faces pixelated for privacy" style="width:700px">
+ <img src="{{ site.baseurl }}/assets/imgs/IMG_20170425_215406_026.jpg" alt="DCTRL with faces pixelated for privacy" style="width:700px">
 
 I prefer not to be involved in the fundraising side of projects where I'm performing short term contract work. However, I will always offer to volunteer for lower budget events that I believe in, and will work as hard as if the team were paying me.
 
