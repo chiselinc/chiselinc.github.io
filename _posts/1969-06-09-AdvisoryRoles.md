@@ -16,7 +16,7 @@ I first fell in love with technology because of the Free and Open Source Softwar
 
 ## Experience
 * past corporate secretary and legal assistant for public TSX-traded company
-* set up operations workflow and documentation for multiple startups
+* implemented effective operations workflow and documentation for multiple startups
 * learned from the best of the best mentors in both critical theory and cryptocurrency
 
 ## Background
@@ -35,6 +35,6 @@ This professional training, combined with the cryptoeconomic cynicism of my Bitc
 
 It will be reward enough if, in my lifetime, I can redpill one or two projects into not creating an unnecessarily tokenized project when they can just craft regular software, thus I'm willing to pitch a way low rate for this.
 
-If we do it by audio, it's *$25 USD/hr* per call. If we meet in person, *$15 USD/hr* and coffee's on your team. If you find the work useful, please tip me, I'm doing God's work here.
+If we do it by audio, it's *$25 USD/hr* per call. If we meet in person, *$15 USD/hr* and coffee's on your team. If you find the work useful, please tip me in Bitcoin, I'm doing God's work here.
 
 And who knows? [Maybe your hyperblockchainization project is the one that will change my mind](https://www.youtube.com/watch?v=1k8craCGpgs), and I'll have to update this website again.
