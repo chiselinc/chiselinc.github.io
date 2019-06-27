@@ -12,7 +12,7 @@ title: How 2 Hire Me- Education and Speaking Roles
 * 4+ years onboarding people to use Bitcoin
 * 3+ years speaking and presenting at technical and academic conferences
 
-<img src="{{ site.baseurl }}assets/imgs/1998864093_chroma.jpg" alt="Education can be... difficult" style="width:700px">
+<img src="{{ site.baseurl }}assets/imgs/1998864093_chroma.jpg" alt="Education can be... difficult" class="img-responsive">
 
 ## Background
 I have loved education since the first day I went to kindergarten, and to me, teaching and learning are deeply intertwined and symbiotic. I was a peer tutor from my first year of university (2003) onward, and I've been producing free community education resources throughout my entire tenure in the decentralized technology industry.
