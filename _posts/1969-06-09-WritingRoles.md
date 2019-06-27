@@ -29,7 +29,7 @@ Additionally, as I've gone deeper down the rabbithole with programming for the B
 ## Strengths
 * expansive vocabulary and sophisticated research process
 * delivery of high-quality contract writing based on collaborative timelines
-* specializing in metaphor construction and translating higher-level concepts to lay
+* specializing in metaphor construction and translating higher-level concepts to laypeople
 
 ## Compensation
-Any contracts offered should work out to at least *$50-$60 USD/hr* for more challenging technical writing and *$30-$40 USD/hr* for less technical work, such as cultural commentary or journalism. 
+Any contracts offered should work out to at least *$50-$60 USD/hr* for more challenging technical writing and *$30-$40 USD/hr* for less technical styles like cultural commentary or journalism. 
