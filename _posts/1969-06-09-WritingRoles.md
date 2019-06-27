@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Hire Me- Writing and Documentation Roles
-tags:
-- Personal
-- Work
-- CoreText
+title: How 2 Hire Me- Hire Me- Writing and Documentation Roles
+
 ---
 
 # Writing and Documentation Roles
