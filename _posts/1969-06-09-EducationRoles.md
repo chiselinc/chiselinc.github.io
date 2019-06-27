@@ -44,10 +44,10 @@ I can also do larger scale education. The following rough estimate rates are bas
 
 ### Academic Topics
 
-**WTF Is Critical Theory?** ----------------- $25hr small group of <20
+**WTF Is Critical Theory?** ----------------- $25hr small group of <30
 
-**Foucault: Critical Theory's Bad Boy** ------- $25hr small group of <20
+**Foucault: Critical Theory's Bad Boy** ------- $25hr small group of <30
 
-**Jacques Lacan: In On the Joke** ----------- $25hr small group of <20
+**Jacques Lacan: In On the Joke** ----------- $25hr small group of <30
 
 
