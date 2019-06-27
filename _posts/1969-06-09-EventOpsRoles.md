@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Hire Me- Event Operations Roles
-tags:
-- Personal
-- Work
-- CoreText
+title: How 2 Hire Me- Event Operations Roles
+
 ---
 
 # Event Operations Roles
