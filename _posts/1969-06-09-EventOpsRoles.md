@@ -10,7 +10,7 @@ tags:
 # Event Operations Roles
 
 ## Experience
-* 10+ years as an informal community organizer (noise music scene; Infoshop collective)
+* 10+ years as an informal community organizer (noise music scene & Infoshop collective)
 * 4+ years running Bitcoin and decentralized technology meetups
 * 3+ years managing professional tech conferences large and small
 
@@ -18,7 +18,7 @@ tags:
 ## Background
 I cut my teeth for crypto event management as a member in [an anarchic Bitcoin education space in Vancouver](https://www.dctrl.ca), and scaled up to working on larger global conferences by summer of 2017. 
 
-My greatest achievement in life thus far has been [Dogecon Vancouver](https://dogecon.fun), which will be returning to the world in Summer of 2020.
+My greatest achievement in life thus far has been [Dogecon Vancouver](http://dogecon.fun/mainpages/memories), which will be returning to the world in Summer of 2020.
 
 ## Strengths
 * pragmatic lead-in planning for contingencies and crowd control;
