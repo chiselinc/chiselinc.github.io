@@ -1,18 +1,15 @@
 ---
 layout: post
 title: Ethical Disclosure
-tags:
-- CoreText
-- Ethics
-- Personal
+
 ---
-I have long wanted to construct this statement, following the shining example of (Bob Summerwill)[https://bobsummerwill.com/conflict-of-interests-statement/] and others for ethical best practices in our field.
+I have long wanted to construct this statement, following the shining example of [Bob Summerwill](https://bobsummerwill.com/conflict-of-interests-statement/) and others for ethical best practices in our field.
+
+<img src="{{ site.baseurl }}assets/imgs/1452602809_chroma.jpg" alt="my most terrible confession" style="width:700px">
 
 I've been held back by the daunting scale of this undertaking-- I have very few actual financial entanglements with crypto ecosystem projects, but many fluid relationships and community connections. 
 
 I'm still determining where I draw the defining line for non-financial conflicts of interest, and this statement will thus be an iterative versioned work in progress, as time and sanity allow. Future versions will link back to their predecessors... much like some sort of chain of information blocks. This is version 1.0.
-
-<img src="{{ site.baseurl }}assets/imgs/1452602809_chroma.jpg" alt="my most terrible confession" style="width:700px">
 
 ## Paid Roles
 
