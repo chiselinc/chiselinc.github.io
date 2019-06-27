@@ -11,8 +11,8 @@ tags:
 
 ## Experience
 * 10+ years as an informal community organizer (noise music scene & Infoshop collective)
-* 4+ years running Bitcoin and decentralized technology meetups
-* 3+ years managing professional tech conferences large and small
+* 4+ years running infosec, Bitcoin, and decentralized technology meetups
+* 2+ years managing professional tech conferences large and small
 
 
 ## Background
