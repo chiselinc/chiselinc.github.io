@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How 2 Hire Me- Hire Me- Writing and Documentation Roles
+title: How 2 Hire Me- Writing and Documentation Roles
 
 ---
 
