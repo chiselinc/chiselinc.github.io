@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Hire Me- Education and Speaking Roles
-tags:
-- Personal
-- Work
-- CoreText
+title: How 2 Hire Me- Education and Speaking Roles
+
 ---
 
 # Education and Speaking Roles
