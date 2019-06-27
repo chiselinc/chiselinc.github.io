@@ -1,0 +1,12 @@
+---
+layout: post
+title: How 2 Hire Me: My Current CV
+
+---
+
+# Current Resume/CV
+
+<a href="{{ site.baseurl }}assets/pdfs/Chelsea Palmer-CV-June 2019.pdf">Here you'll find the latest PDF copy of my CV</a> as 
+of *June 2019.*
+        <br>
+        <img src="{{ site.baseurl }}assets/imgs/649872081_chroma.jpg" alt="home studio" style="width:600px">
