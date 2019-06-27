@@ -9,6 +9,7 @@ tags:
 # "Blockchain" Advisory Roles
 
 <img src="{{ site.baseurl }}assets/imgs/534564251_chroma.jpg" alt="I advise you to use FLOSS" style="width:700px">
+<br>
 [GNU](https://www.gnu.org/) ftw 4evah
 
 I first fell in love with technology because of the Free and Open Source Software movement, and my intellectual orientation is still rooted in the values from that scene.
@@ -34,6 +35,6 @@ This professional training, combined with the cryptoeconomic cynicism of my Bitc
 
 It will be reward enough if, in my lifetime, I can redpill one or two projects into not creating an unnecessarily tokenized project when they can just craft regular software, thus I'm willing to pitch a way low rate for this.
 
-If we do it by audio, it's *$25 USD/hr* per call. If we meet in person, *$15 USD/hr* and coffee's on your team.
+If we do it by audio, it's *$25 USD/hr* per call. If we meet in person, *$15 USD/hr* and coffee's on your team. If you find the work useful, please tip me, I'm doing God's work here.
 
 And who knows? [Maybe your hyperblockchainization project is the one that will change my mind](https://www.youtube.com/watch?v=1k8craCGpgs), and I'll have to update this website again.
