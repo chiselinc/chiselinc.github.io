@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ethical Disclosure
+title: Ethical Disclosure v 1.0
 
 ---
 I have long wanted to construct this statement, following the shining example of [Bob Summerwill](https://bobsummerwill.com/conflict-of-interests-statement/) and others for ethical best practices in our field.
