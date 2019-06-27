@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Hire Me- "Blockchain" Advisory Roles
-tags:
-- Personal
-- Work
-- CoreText
+title: How 2 Hire Me- "Blockchain" Advisory Roles
+
 ---
 # "Blockchain" Advisory Roles
 
