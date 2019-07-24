@@ -5,7 +5,7 @@ title: How 2 Hire Me- "Blockchain" Advisory Roles
 ---
 # "Blockchain" Advisory Roles
 
-<img src="{{ site.baseurl }}assets/imgs/534564251_chroma.jpg" alt="I advise you to use FLOSS" style="width:700px">
+<img src="{{ site.baseurl }}assets/imgs/534564251_chroma.jpg" alt="I advise you to use FLOSS" class="img-responsive">
 <br>
 [GNU](https://www.gnu.org/) ftw 4evah
 

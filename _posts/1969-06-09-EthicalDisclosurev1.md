@@ -5,7 +5,7 @@ title: Ethical Disclosure v 1.0
 ---
 I have long wanted to construct this statement, following the shining example of [Bob Summerwill](https://bobsummerwill.com/conflict-of-interests-statement/) and others for ethical best practices in our field.
 
-<img src="{{ site.baseurl }}assets/imgs/1452602809_chroma.jpg" alt="my most terrible confession" style="width:700px">
+<img src="{{ site.baseurl }}assets/imgs/1452602809_chroma.jpg" alt="my most terrible confession" class="img-responsive">
 
 I've been held back by the daunting scale of this undertaking-- I have very few actual financial entanglements with crypto ecosystem projects, but many fluid relationships and community connections. 
 
