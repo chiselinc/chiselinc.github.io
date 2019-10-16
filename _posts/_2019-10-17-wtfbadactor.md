@@ -1,0 +1,1 @@
+I am not looking forward to this but here is where I will need to outline what I uniquely identify as a *bad actor* and the "tells" that worry me the most. In my eyes, "being rude to the help" is the canary in the coalmine for sociopathy, and it's one of the biggest red flags I look for, especially when interacting with the wealthy.    
