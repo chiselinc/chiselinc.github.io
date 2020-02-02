@@ -19,9 +19,7 @@ In December 2018-ish, I first started researching for this conceptualized post s
 
 Curiously, the most useful of these tools are also the simplest. They feel almost trite: just "be here now" and you'll overcome your greatest psychic challenges. It's true though: face into the fear, own your feelings about it, endure in the moment and your brain will learn that the fear anxiety feeds on is a falsehood. 
 
----
-*Side note: The work of [Jocko Willink](https://jockopodcast.com/) and [Steven Pressfield](https://stevenpressfield.com/books/the-war-of-art/) were of crucial use as I tried to grok this at a deeper level. Additionally, [the Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and [David Allen's GTD structure](https://gettingthingsdone.com/what-is-gtd/) are both excellent jumping-off points to explore mainstream productivity-hacking. I use a lot of terminology from David Allen in my own system as sketched out below.*
----
+*Side note*: The work of [Jocko Willink](https://jockopodcast.com/) and [Steven Pressfield](https://stevenpressfield.com/books/the-war-of-art/) were of crucial use as I tried to grok this at a deeper level. Additionally, [the Pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) and [David Allen's GTD structure](https://gettingthingsdone.com/what-is-gtd/) are both excellent jumping-off points to explore mainstream productivity-hacking. I use a lot of terminology from David Allen in my own system as sketched out below.
 
 Personally, I'm still struggling to engage in any activities within even a stone's throw of mindfulness without descending into preventative panic. I'm working on it. In the meantime, concrete and pragmatic guidelines to implement in the day-to-day rule supreme for me. By setting design walls around my immediate and mid-term goals, and enforcing consistency and repetition in my routines. In short, I'm running my personal life more like it's an organization, and that's been delivering slow but steady results.
 
@@ -41,7 +39,7 @@ The overall proposed undertaking is *relevant* because my desired professional p
 
 Perhaps most crucially, *tasks* are not *projects*. A task in my personal system's definition must take less than two hours to complete, and should be summarized with a main noun and action verb. It can have extensive detail from there, as much as is needed to provide the context and scope of the task. 
 
-"*Review Financial Statements*" is a project. "*Download financial statements from 2008-2010 and highlight relevant line items*" is a proper task. I don't want to sit down to "Review Financial Statements" - it will take about 30 seconds to even properly recall the scope of such a project, and it's intimidating as hell. If I have "Review Financial Statements" as a standing item in my Projects list on Trello, each week I can generate a less intimidating Next Action item
+"*Review Financial Statements*" is a project. "*Download financial statements from 2008-2010 and highlight relevant line items*" is a proper task. I don't want to sit down to "Review Financial Statements" - it will take about 30 seconds to even properly recall the scope of such a project, and it's intimidating as hell. If I have "Review Financial Statements" as a standing item in my Projects list on Trello, each week I can generate a less intimidating "Next Action item" of about 30 minutes to 1 hour's duration, which I can schedule into my week in order to chip away at the beast that we call fiscal responsibility.
 
 <img src="{{ site.baseurl }}assets/imgs/gitgudzoomlens3.jpg" alt="own work; photograph of UBC's ASRS library robot manipulated in ChromaLab app, take 2" class="img-responsive">
 
