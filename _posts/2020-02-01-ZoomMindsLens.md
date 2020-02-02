@@ -15,6 +15,10 @@ In December 2018-ish, I first started researching for this conceptualized post s
 
 **TL;DR** *Focus*, even on things you're deeply passionate about, doesn't always come automatically or easily. Tightly zooming in the lens of your mind's eye from the complex big picture to the next actionable task at hand can help keep you moving ahead reliably even during tougher times.
 
+In the following post, I'll first lay the groundwork for the "Git Gud" productivity series, using my commitment to write 29 posts in February as a concrete example of the "SMART Goals" framework. Then, I'll illustrate the importance of separating tasks from projects to zoom in on actionable chunks of our goals. Finally, I'll bulletpoint the current elements of my personal productivity system, including 3 fixed weekly timeblocks to keep it all going.
+
+Each of the sections I describe above are roughly separated by the iterative photos I edited of my favourite book-fetchin' robot at my university building.
+
 <img src="{{ site.baseurl }}assets/imgs/gitgudzoomlens1.jpg" alt="own work; photograph of UBC's ASRS library robot manipulated in ChromaLab app, take 1a" class="img-responsive">
 
 Curiously, the most useful of these tools are also the simplest. They feel almost trite: just "be here now" and you'll overcome your greatest psychic challenges. It's true though: face into the fear, own your feelings about it, endure in the moment and your brain will learn that the fear anxiety feeds on is a falsehood. 
