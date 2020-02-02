@@ -43,7 +43,9 @@ The overall proposed undertaking is *relevant* because my desired professional p
 
 Perhaps most crucially, *tasks* are not *projects*. A task in my personal system's definition must take less than two hours to complete, and should be summarized with a main noun and action verb. It can have extensive detail from there, as much as is needed to provide the context and scope of the task. 
 
-"*Review Financial Statements*" is a project. "*Download financial statements from 2008-2010 and highlight relevant line items*" is a proper task. I don't want to sit down to "Review Financial Statements" - it will take about 30 seconds to even properly recall the scope of such a project, and it's intimidating as hell. If I have "Review Financial Statements" as a standing item in my Projects list on Trello, each week I can generate a less intimidating "Next Action item" of about 30 minutes to 1 hour's duration, which I can schedule into my week in order to chip away at the beast that we call fiscal responsibility.
+"*Review Financial Statements*" is a project. "*Download financial statements from 2008-2010 and highlight relevant line items*" is a proper task. I don't want to sit down to "Review Financial Statements" - it will take about 30 seconds to even properly recall the scope of such a project, and it's intimidating as hell. 
+
+If I have "Review Financial Statements" as a standing item in my Projects list on Trello, each week I can generate a less intimidating "Next Action item" of about 30 minutes to 1 hour's duration, which I can schedule into my week in order to chip away at the beast that we call fiscal responsibility.
 
 <img src="{{ site.baseurl }}assets/imgs/gitgudzoomlens3.jpg" alt="own work; photograph of UBC's ASRS library robot manipulated in ChromaLab app, take 2" class="img-responsive">
 
