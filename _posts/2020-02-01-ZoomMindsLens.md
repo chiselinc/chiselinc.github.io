@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git Gud: Learning to Zoom In the Mind's Lens
+title: Git Gud- Learning to Zoom In the Mind's Lens
 
 ---
 
