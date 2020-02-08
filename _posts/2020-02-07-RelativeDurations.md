@@ -1,0 +1,16 @@
+---
+layout: post
+title: Relative Durations
+---
+
+In my early twenties, when Netflix first busted onto the market as a disc-by-mail service, I lived in the middle of exactly nowhere in upstate New York without Internet service. Well, I had limited cell data on the original Motorola Droid smartphone, enough to read somethingawful.com and slowly load jpegs. But anyhow, I watched a lotttt of movies in between my health care shifts.
+
+I got to the point where I'd cluster my three DVDs at a time to be actor triple features. Steve Buscemi, Nicolas Cage, Gary Oldman- I'd work through their filmography, late at night in the loft of a converted barn. My day job was really challenging and rewarding - a lot of nonviolent crisis intervention methods with some folks with a lot of pain, and some difficulty communicating. The job made me grow deeply every day but I wanted to turn off my brain when I got home. So early proof of concept Netflix, before it morphed into the media juggernaut it's tried to maintain being, really saved my rural-bound ass.
+
+Somewhere along the way before I moved to Vancouver in 2012, I stopped watching movies. It wasn't about wasting less time, because I would still binge watch chunks of television in the background at home, to try to distract myself *from* myself with surface noise. Part of it was that I needed less seriousness, less drama, in my mind for awhile. Even comedic films usually go for the big Hollywood twists and turns, the sudden jolt, a rollercoaster for anyone with even a shred of empathy. I needed my entertainment one of two ways: silly dumb stuff, or serious interesting mysterious scifi. So for a long time- at least 8 years- I watched TV but not movies.
+
+Over this past winter, I broke that streak and started watching movies again with my partner. It came with an interest in working through Wikipedia's list of movies that involve time loops, in pseudo-preparation for a weird little scifi novella I want to write (working title "grave conCERN"). That spun out into watching other longform stuff though, then beyond that, watching classics and favourites, sharing in both directions with my partner. Mean Girls and Half Baked. Being John Malkovitch and Source Code. All these long form stories.
+
+It made me kind of reflect on my perception of relative timesuck, between movies and television. If you aggregate it across my adult lifetime, I've probably pissed away a lot more time with television in the background than movies. It's easy to string twenty-minute blocks along together, stacking them like little legos till you realize you can't see beyond the stack. And when I started to reflect on that, and the many parallel ways that mindless abuse of time creeps into my daily life, I realized I was seeing "The Pomodoro Technique" from its dark side, so to speak.
+
+The true bulk of our life's time is made up of tiny moments. Allotting those willingly to passive entertainment isn't necessarily a bad thing, but it becomes destructive when it's habitual and automatic. Space gets filled up with those seemingly tiny blocks till you're claustrophobic and trapped. We choose what happens each 20 minutes- sometimes I'll string a few of those chunks together and watch a damn Marvel movie. But I'll steer clear of playlists and platforms that keep playing the next thing for me for awhile.
