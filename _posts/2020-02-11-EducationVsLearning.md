@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Education" Versus "Learning"
+title: Education Versus Learning
 
 ---
 
