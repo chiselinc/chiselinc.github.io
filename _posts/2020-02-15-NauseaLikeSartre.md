@@ -29,6 +29,8 @@ I was very, very well-behaved when I arrived at that school, a few months after 
 
 No matter, it's done. What that turned into, with my daredevil ways and transdude-before-trans-was-a-mainstream-thing desperation to seem like the biggest badass in the crew, was me taking on the role of "guinea pig" when the campus "chemists" got in new shipments of experimental research chemicals.
 
+# Flashback to A Trip Gone Weird
+
 And so it was that on a weekday afternoon sometime in the Fall of 2004, I was lined up to try out a brand new shipment of what was presumably the [research chemical 2CB](https://erowid.org/chemicals/2cb/2cb.shtml). Being a particularly enthusiastic and insecure daredevil degen, I decided to kick it off with a double dose. I bade the dealer farewell after downing the capsules and smoking a bowl, promising to return with notes the next day.
 
 The psychedelic kicked in, strong, while I was still in the "main campus" sector of an incredibly small liberal arts college. In fact, we jokingly called it "baby college" cos of the age thing- you didn't *have* to come there before finishing high school, but the majority of us did. So inevitably, the staff and security policed us more closely. As the idiocy of my actions in this story illustrate, we were kids- dumb, dumb, dumbass kids.
@@ -39,6 +41,8 @@ So the drugs kicked in, my pupils were probably reaching for the margins, and I 
 
 <img src="{{ site.baseurl }}assets/imgs/sartre3.jpg" alt="picture of Jean-Paul Sartre from Wikimedia Commons, Chromalab alteration take 3" class="img-responsive">
 
+# Don't Mind Me, Just Pukin' in the Garden
+
 When you are violently hurling in public, even if nothing is coming out of your body except brisk puffs of air- well, ladies and germs, that's a real attention-grabber. The urgency of the situation escalated as the physical urgency pressed itself into my core muscles, wracking my body.
 
 **Somebody was gonna notice this absolute nonsense.** And ask me what was up. And find out pretty quickly from my gibberish narrative that I was in an altered state.
@@ -47,8 +51,12 @@ The Tomb Raider plan became less joke, more necessity. I darted behind parked ca
 
 <img src="{{ site.baseurl }}assets/imgs/sartre4.jpg" alt="picture of Jean-Paul Sartre from Wikimedia Commons, Chromalab alteration take 4" class="img-responsive">
 
+# Our Antihero Manages a Brave Escape
+
 I made it back to my little sophomore apartment, in the Mods as they called it. Still darting like a devious thief even once I reached the covers of the forest path. As I got to the back porch, I saw some sort of creature- I believe it was a possum- that was completely albino, with red eyes. We both froze for a second, and as I bent into another uncontrollable hurling motion, s/he darted under the porch. Spooky demon rat, in my zonked out perspective.
 
 This is a long weird roundabout story, but so is Sartre's *Nausea* tbh. This won't compare to that but experientially, it was the goddamn same. Just like him, tripping and staring down the minute details of a tree, I was spun and forced to confront a world I didn't understand, seemingly meaningless, and watch it play with me.
 
-Roundabout story but I'm convinced this is the origin point of a psychological nausea I've been afflicted with ever since. It's held me back from a lot, it always pops up just when I'm about to overcome some of my psychological limitations. It literally brings me to the floor, lying on the cool ground while I sweat with fear and wracked with uncontrollable spasms. Could this all be traced back to one bad trip? Or is it just pattern recognition?
+Roundabout story but I'm convinced this is the origin point of a psychological nausea I've been afflicted with ever since. It's held me back from a lot, it always pops up just when I'm about to overcome some of my psychological limitations. It literally brings me to the floor, lying on the cool ground while I sweat with fear and wracked with uncontrollable spasms. 
+
+Could this all be traced back to one bad trip? Or is it just pattern recognition overlaid on a genetic inevitability... that I would always end up with this weak stomach, and the horrifyingly vivid trip is just a marker along the way?
