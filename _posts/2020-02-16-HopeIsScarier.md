@@ -5,7 +5,7 @@ title: Hope Is Scarier
 
 <img src="{{ site.baseurl }}assets/imgs/sobmath.jpg" alt="I have no idea about this image's rights tbh" class="img-responsive">
 
-Since I got a new mattress last week, the gradually worsening spinal pain issues I've had for almost a year have been significantly slowed- I've even had a few comparatively new days.
+Since I got a new mattress last week, the gradually worsening spinal pain issues I've had for almost a year have been significantly slowed- I've even had a few comparatively decent days.
 
 As someone who was a bit of an Eeyore the Donkey even before this recent bout of pain cropped up, though, I'm not sure precisely how I feel about that. In this particular case, I'm deeply fucking relieved because my daily life was becoming some sort of a cruel joke, a bad trip where expectations of pain gate theory were just smashed again and again, with perverse new ways to hurt.
 
